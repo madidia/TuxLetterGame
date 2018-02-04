@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/home/d/diallo1/LangagePourLeWeb/TuxGame/src/xml/profile.xsd" uri="xml-resources/jaxb/ProfileBinding/profile.xsd"/>
+    <system systemId="file:/home/d/diallo1/LangagePourLeWeb/TuxGame/src/xml/dico.xsd" uri="xml-resources/jaxb/ProfileBinding/dico.xsd"/>
+    <system systemId="file:/home/d/diallo1/LangagePourLeWeb/TuxGame/src/xml/XmlRootBinding.xml" uri="xml-resources/jaxb/ProfileBinding/XmlRootBinding.xml"/>
+    <system systemId="file:/C:/Users/Mamadou%20Dian%20Diallo/Documents/L3/Langages%20pour%20le%20web/TP/TuxGameCopie/src/xml/profile.xsd" uri="xml-resources/jaxb/ProfileBinding/profile.xsd"/>
+    <system systemId="file:/C:/Users/Mamadou%20Dian%20Diallo/Documents/L3/Langages%20pour%20le%20web/TP/TuxGameCopie/src/xml/dico.xsd" uri="xml-resources/jaxb/ProfileBinding/dico.xsd"/>
+    <system systemId="file:/C:/Users/Mamadou%20Dian%20Diallo/Documents/L3/Langages%20pour%20le%20web/TP/TuxGameCopie/src/xml/XmlRootBinding.xml" uri="xml-resources/jaxb/ProfileBinding/XmlRootBinding.xml"/>
+</catalog>

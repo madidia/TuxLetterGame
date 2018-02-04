@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionnaire
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xmlns="http://myGame/tux"
+    xsi:schemaLocation='http://myGame/tux profile.xsd'>
+    <mot niveau="1">moi</mot> 
+    <mot niveau="1">cle</mot> 
+    <mot niveau="2">manoir</mot>  
+    <mot niveau="2">roi</mot>   
+    <mot niveau="3">prince</mot>   
+    <mot niveau="4">vallet</mot>   
+    <mot niveau="1">coeur</mot>  
+    <mot niveau="2">train</mot>  
+    <mot niveau="2">lion</mot>   
+    <mot niveau="3">velo</mot>   
+    <mot niveau="4">code</mot>   
+    <mot niveau="1">trie</mot>
+    <mot niveau="5">giraffe</mot>
+    <mot niveau="5">telephone</mot>
+    <mot niveau="5">elephant</mot>
+    <mot niveau="5">berceau</mot>
+    <mot niveau="5">vacances</mot>
+    <mot niveau="5">musique</mot>
+    <mot niveau="3">vert</mot>
+    <mot niveau="4">carton</mot>       
+</dictionnaire>

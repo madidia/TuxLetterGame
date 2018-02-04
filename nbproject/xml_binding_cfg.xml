@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<schemas xmlns='http://xml.netbeans.org/schema/JAXBWizConfig' destdir='build/generated-sources/jaxb' projectName='TuxGame' version='1.0'>
+	<schema type='-xmlschema' package='tux' name='ProfileBinding'>
+		<xjc-options>
+			<xjc-option name='-verbose' value='true'/>
+			<xjc-option name='-extension' value='true'/>
+		</xjc-options>
+		<schema-sources>
+			<schema-source location='xml-resources/jaxb/ProfileBinding/profile.xsd' origLocation='src/xml/profile.xsd'/>
+		</schema-sources>
+		<bindings>
+			<binding origLocation='src/xml/XmlRootBinding.xml' location='xml-resources/jaxb/ProfileBinding/XmlRootBinding.xml'/>
+		</bindings>
+		<catalog/>
+	</schema>
+</schemas>

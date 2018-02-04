@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<profile>
+<name>Alban</name>
+<avatar>tux.jpeg</avatar>
+<birthday>2006-05-08</birthday>
+<games/>
+<game date="2013-12-10" found="75%">
+<word level="3">cle</word>
+<time>20</time>
+</game>
+<game date="2010-12-11" found="30%">
+<word level="2">manoir</word>
+<time>30</time>
+</game>
+<game date="2015-11-12" found="30%">
+<word level="1">vacances</word>
+<time>35</time>
+</game>
+<game date="2017-12-11" found="100%">
+<word level="2">trie</word>
+<time>11</time>
+</game>
+<game date="2017-12-11" found="100%">
+<word level="3">train</word>
+<time>15</time>
+</game>
+</profile>

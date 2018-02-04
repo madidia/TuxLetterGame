@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<profile xmlns="http://myGame/tux" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://myGame/profile src/xml/profile.xsd">
+    <name>Alban</name>
+    <avatar>tux.jpeg</avatar>
+    <birthday>2006-05-08</birthday>
+    <games>
+        <game date="2013-12-10" found="75%">
+            <time>20</time>
+            <word niveau="3">cle</word>
+        </game>
+        <game date="2010-12-11" found="30%">
+            <time>30</time>
+            <word niveau="2">manoir</word>
+        </game>
+        <game date="2015-11-12" found="30%">
+            <time>35</time>
+            <word niveau="1">vacances</word>
+        </game>
+    </games>
+</profile>
